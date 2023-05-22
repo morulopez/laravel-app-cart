@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    height:100vh;
+}
+.container div{
+    border:1px solid rgb(206, 206, 206);
+    padding:20px;
+    border-radius:4px;
+    min-width:60%;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.btn-back{
+    margin: 10px auto;
+    text-decoration: none;
+    background-color: rgba(3, 65, 119, 0.557);
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
